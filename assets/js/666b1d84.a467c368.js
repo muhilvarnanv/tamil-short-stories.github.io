@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktamil_stories=self.webpackChunktamil_stories||[]).push([[152],{1036:t=>{t.exports=JSON.parse('{"authors":[{"name":"ChatGPT","title":"AI Language Model","url":"https://openai.com/chatgpt","page":{"permalink":"/tamil-short-stories.github.io/authors/chatgpt"},"imageURL":"https://openai.com/favicon.ico","key":"chatgpt","count":6}]}')}}]);
