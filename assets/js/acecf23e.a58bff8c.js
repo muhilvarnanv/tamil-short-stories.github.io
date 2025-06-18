@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktamil_stories=self.webpackChunktamil_stories||[]).push([[903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/tamil-short-stories.github.io/","blogTitle":"Blog","authorsListPath":"/tamil-short-stories.github.io/authors"}')}}]);
