@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktamil_stories=self.webpackChunktamil_stories||[]).push([[2472],{378:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/tamil-short-stories.github.io/","page":1,"postsPerPage":10,"totalPages":4,"totalCount":40,"nextPage":"/tamil-short-stories.github.io/page/2","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
